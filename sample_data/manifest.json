@@ -1,0 +1,11 @@
+{
+  "name": "PlantMind AI Demo Pack",
+  "documents": [
+    "maintenance_report_p101.txt",
+    "incident_report_p101.txt",
+    "safety_sop_pump_operations.txt",
+    "maintenance_log.csv",
+    "project_overview.json"
+  ]
+}
+

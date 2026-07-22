@@ -1,0 +1,19 @@
+Incident Report - Pump P101 Failure Event
+Date: 2025-09-03
+Location: Unit A
+
+Summary:
+Pump P101 experienced an unplanned trip after sustained vibration, bearing wear, and oil contamination.
+
+Root Cause:
+Inadequate lubrication and delayed corrective maintenance.
+
+Impact:
+- 3.5 hours downtime
+- Reduced throughput
+- Maintenance work order raised for inspection and alignment
+
+Lessons Learned:
+- Similar vibration trend was seen in a prior event eight months earlier.
+- Bearing inspection frequency should be increased.
+

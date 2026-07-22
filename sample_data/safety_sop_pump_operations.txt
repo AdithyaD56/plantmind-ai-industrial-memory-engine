@@ -1,0 +1,15 @@
+Safety SOP - Pump Operations
+
+Procedure:
+1. Isolate equipment before inspection.
+2. Apply lockout tagout and verify zero energy.
+3. Confirm permit to work.
+4. Wear PPE and confirm area is safe.
+5. Record inspection findings and escalate abnormal vibration or leakage.
+
+Requirements:
+- Training
+- Inspection
+- Emergency response
+- Hazard isolation
+

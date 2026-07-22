@@ -1,0 +1,18 @@
+Maintenance Report - Pump P101
+Date: 2026-05-14
+Location: Unit A
+
+Observations:
+- Pump P101 vibration increased above baseline during the last 72 hours.
+- Seal temperature is elevated.
+- Lubrication film appears degraded.
+- Minor leak noted near the bearing housing.
+
+Actions Taken:
+- Temporary load reduction applied.
+- Technician inspection completed.
+- Next inspection recommended within 48 hours.
+
+Notes:
+This asset is part of the boiler feed system and shares components with Pump P102.
+

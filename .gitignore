@@ -1,0 +1,12 @@
+.env
+data/
+__pycache__/
+*.pyc
+.streamlit/
+.deps/
+.wd_deps/
+.rl_deps/
+node_modules/
+deliverables/
+PlantMind_AI_Detailed_Report.docx
+PlantMind_AI_Detailed_Report.pdf

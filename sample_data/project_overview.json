@@ -1,0 +1,15 @@
+{
+  "project": "Boiler Feed Reliability Program",
+  "sites": [
+    {
+      "unit": "Unit A",
+      "equipment": ["P101", "P102", "P201"]
+    }
+  ],
+  "safety_goals": [
+    "Prevent unplanned downtime",
+    "Improve permit compliance",
+    "Reduce repeat vibration failures"
+  ]
+}
+

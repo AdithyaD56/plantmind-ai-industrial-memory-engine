@@ -1,0 +1,6 @@
+date,equipment_id,event_type,detail,technician
+2026-04-02,P101,inspection,Vibration check completed,Arun Mehta
+2026-04-18,P101,maintenance,Lubrication replenished,Neha Singh
+2026-05-02,P101,repair,Bearing alignment adjusted,Arun Mehta
+2026-05-12,P102,inspection,Seal check completed,Neha Singh
+
